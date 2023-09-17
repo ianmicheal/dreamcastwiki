@@ -1,5 +1,5 @@
 #include <kos.h>
-
+#include <dc/sound/sound.h>
 #define LEFT 0
 #define CENTER 128
 #define RIGHT 255
